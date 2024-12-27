@@ -31,7 +31,7 @@ Configure your application to send SMTP emails to this service:
 The service will:
 1. Accept incoming emails
 2. Convert them to Teams messages
-3. Send them to your configured Teams webhook
+3. Send them to your configured Teams webhook (webhook is now workflows)
 
 ## Features
 
